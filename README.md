@@ -1,5 +1,4 @@
-# Cafe-Management
-Full Stack web application for inventory management and food delivery for cafe
+# Food Delivery
 
 <div align="center">
   <img width="200px" src="https://cdn-icons-png.flaticon.com/512/4039/4039232.png"/>
@@ -42,4 +41,3 @@ Full Stack web application for inventory management and food delivery for cafe
 ### LINK :
 
 https://rio-ci4k.onrender.com/
-
